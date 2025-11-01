@@ -1,0 +1,7 @@
+[
+    {"customer": "Alice", "region": "North", "sales": 1200, "transactions": 5},
+    {"customer": "Bob", "region": "South", "sales": 850, "transactions": 3},
+    {"customer": "Charlie", "region": "East", "sales": 950, "transactions": 4},
+    {"customer": "Diana", "region": "West", "sales": 1100, "transactions": 6},
+    {"customer": "Eve", "region": "North", "sales": 1150, "transactions": 5}
+]
